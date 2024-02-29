@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EuVou</string>
+    <string name="txt_titulo_login">Seja bem vindo(a)!</string>
+    <string name="txt_welcome_login">É um prazer te ver aqui! A EuVouNaTrip lhe deseja as melhores experiências!</string>
+</resources>
